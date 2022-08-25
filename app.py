@@ -14,6 +14,7 @@ DATA_URL = (
 )
 
 st.title("Motor Vehicle Collusions in New York City")
+st.markdown("Made by Phan Quang Minh Long 👨‍💻")
 st.markdown("This application is a Streamlit dashboard that can be used to analyze motor vehicle collision in New York City (NYC) 🗽💥🚗")
 
 @st.cache(persist=True)
